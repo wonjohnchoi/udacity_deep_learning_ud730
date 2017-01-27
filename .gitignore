@@ -1,0 +1,5 @@
+*.ipynb_checkpoints/
+assignments/assignment1/notMNIST_large.tar.gz
+assignments/assignment1/notMNIST_large/
+assignments/assignment1/notMNIST_small.tar.gz
+assignments/assignment1/notMNIST_small/
